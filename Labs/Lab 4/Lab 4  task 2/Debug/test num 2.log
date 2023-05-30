@@ -1,0 +1,2 @@
+﻿C:\Program Files\Microsoft Visual Studio\2022\Community\MSBuild\Microsoft\VC\v170\Microsoft.CppBuild.targets(517,5): warning MSB8028: The intermediate directory (Debug\) contains files shared from another project (test num 2.vcxproj).  This can lead to incorrect clean and rebuild behavior.
+  test num 2.vcxproj -> C:\Users\Moe-gawish\source\repos\Lab 4  task 2\Debug\2d converts.exe

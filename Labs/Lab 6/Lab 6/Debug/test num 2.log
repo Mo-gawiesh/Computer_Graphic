@@ -1,0 +1,4 @@
+﻿C:\Program Files\Microsoft Visual Studio\2022\Community\MSBuild\Microsoft\VC\v170\Microsoft.CppBuild.targets(517,5): warning MSB8028: The intermediate directory (Debug\) contains files shared from another project (test num 2.vcxproj).  This can lead to incorrect clean and rebuild behavior.
+  2d.cpp
+E:\study\2 course\4 Semester\Computer Graphic\done lab\done labs\drive-download-20230529T135013Z-001\New folder\Labs\Lab 6\Lab 6\2d.cpp(98,8): warning C4101: 'iViewport': unreferenced local variable
+  test num 2.vcxproj -> E:\study\2 course\4 Semester\Computer Graphic\done lab\done labs\drive-download-20230529T135013Z-001\New folder\Labs\Lab 6\Lab 6\Debug\2d converts.exe

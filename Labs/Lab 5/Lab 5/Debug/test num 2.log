@@ -1,0 +1,9 @@
+﻿C:\Program Files\Microsoft Visual Studio\2022\Community\MSBuild\Microsoft\VC\v170\Microsoft.CppBuild.targets(517,5): warning MSB8028: The intermediate directory (Debug\) contains files shared from another project (test num 2.vcxproj).  This can lead to incorrect clean and rebuild behavior.
+  2d.cpp
+C:\Users\Moe-gawish\source\repos\Lab 5 - Copy\2d.cpp(136,55): warning C4305: 'initializing': truncation from 'double' to 'GLfloat'
+C:\Users\Moe-gawish\source\repos\Lab 5 - Copy\2d.cpp(138,33): warning C4305: 'initializing': truncation from 'double' to 'GLfloat'
+C:\Users\Moe-gawish\source\repos\Lab 5 - Copy\2d.cpp(140,55): warning C4305: 'initializing': truncation from 'double' to 'GLfloat'
+C:\Users\Moe-gawish\source\repos\Lab 5 - Copy\2d.cpp(142,59): warning C4305: 'initializing': truncation from 'double' to 'GLfloat'
+C:\Users\Moe-gawish\source\repos\Lab 5 - Copy\2d.cpp(169,36): warning C4305: '=': truncation from 'double' to 'GLfloat'
+C:\Users\Moe-gawish\source\repos\Lab 5 - Copy\2d.cpp(174,37): warning C4305: '=': truncation from 'double' to 'GLfloat'
+  test num 2.vcxproj -> C:\Users\Moe-gawish\source\repos\Lab 5 - Copy\Debug\2d converts.exe

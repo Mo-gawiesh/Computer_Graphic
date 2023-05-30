@@ -1,0 +1,7 @@
+﻿  Wave.cpp
+C:\Users\Moe-gawish\source\repos\lab 1\Wave.cpp(28,33): warning C4305: 'argument': truncation from 'double' to 'GLclampf'
+C:\Users\Moe-gawish\source\repos\lab 1\Wave.cpp(50,2): warning C4305: '=': truncation from 'double' to 'GLfloat'
+C:\Users\Moe-gawish\source\repos\lab 1\Wave.cpp(50,60): warning C4305: '+=': truncation from 'double' to 'GLfloat'
+C:\Users\Moe-gawish\source\repos\lab 1\Wave.cpp(59,2): warning C4305: '=': truncation from 'double' to 'GLfloat'
+C:\Users\Moe-gawish\source\repos\lab 1\Wave.cpp(59,60): warning C4305: '+=': truncation from 'double' to 'GLfloat'
+  test num 2.vcxproj -> C:\Users\Moe-gawish\source\repos\lab 1\Debug\test num 2.exe

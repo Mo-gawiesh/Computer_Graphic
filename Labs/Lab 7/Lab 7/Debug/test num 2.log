@@ -1,0 +1,12 @@
+﻿C:\Program Files\Microsoft Visual Studio\2022\Community\MSBuild\Microsoft\VC\v170\Microsoft.CppBuild.targets(517,5): warning MSB8028: The intermediate directory (Debug\) contains files shared from another project (test num 2.vcxproj).  This can lead to incorrect clean and rebuild behavior.
+  2d.cpp
+C:\Users\Moe-gawish\source\repos\Lab 7\2d.cpp(9,1): warning C4326: return type of 'main' should be 'int' instead of 'void'
+C:\Users\Moe-gawish\source\repos\Lab 7\2d.cpp(53,14): warning C4305: '+=': truncation from 'double' to 'GLfloat'
+C:\Users\Moe-gawish\source\repos\Lab 7\2d.cpp(58,14): warning C4305: '+=': truncation from 'double' to 'GLfloat'
+C:\Users\Moe-gawish\source\repos\Lab 7\2d.cpp(63,15): warning C4305: '+=': truncation from 'double' to 'GLfloat'
+C:\Users\Moe-gawish\source\repos\Lab 7\2d.cpp(67,15): warning C4305: '+=': truncation from 'double' to 'GLfloat'
+C:\Users\Moe-gawish\source\repos\Lab 7\2d.cpp(80,26): warning C4244: '=': conversion from 'double' to 'GLfloat', possible loss of data
+C:\Users\Moe-gawish\source\repos\Lab 7\2d.cpp(81,19): warning C4244: '=': conversion from 'double' to 'GLfloat', possible loss of data
+  stb.cpp
+  Generating Code...
+  test num 2.vcxproj -> C:\Users\Moe-gawish\source\repos\Lab 7\Debug\2d converts.exe

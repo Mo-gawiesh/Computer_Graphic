@@ -1,0 +1,15 @@
+C:\Users\Moe-gawish\source\repos\ConsoleApp 10\bin\Debug\net7.0\ConsoleApp 10.exe
+C:\Users\Moe-gawish\source\repos\ConsoleApp 10\bin\Debug\net7.0\ConsoleApp 10.deps.json
+C:\Users\Moe-gawish\source\repos\ConsoleApp 10\bin\Debug\net7.0\ConsoleApp 10.runtimeconfig.json
+C:\Users\Moe-gawish\source\repos\ConsoleApp 10\bin\Debug\net7.0\ConsoleApp 10.dll
+C:\Users\Moe-gawish\source\repos\ConsoleApp 10\bin\Debug\net7.0\ConsoleApp 10.pdb
+C:\Users\Moe-gawish\source\repos\ConsoleApp 10\obj\Debug\net7.0\ConsoleApp 10.csproj.AssemblyReference.cache
+C:\Users\Moe-gawish\source\repos\ConsoleApp 10\obj\Debug\net7.0\ConsoleApp 10.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Moe-gawish\source\repos\ConsoleApp 10\obj\Debug\net7.0\ConsoleApp 10.AssemblyInfoInputs.cache
+C:\Users\Moe-gawish\source\repos\ConsoleApp 10\obj\Debug\net7.0\ConsoleApp 10.AssemblyInfo.cs
+C:\Users\Moe-gawish\source\repos\ConsoleApp 10\obj\Debug\net7.0\ConsoleApp 10.csproj.CoreCompileInputs.cache
+C:\Users\Moe-gawish\source\repos\ConsoleApp 10\obj\Debug\net7.0\ConsoleApp 10.dll
+C:\Users\Moe-gawish\source\repos\ConsoleApp 10\obj\Debug\net7.0\refint\ConsoleApp 10.dll
+C:\Users\Moe-gawish\source\repos\ConsoleApp 10\obj\Debug\net7.0\ConsoleApp 10.pdb
+C:\Users\Moe-gawish\source\repos\ConsoleApp 10\obj\Debug\net7.0\ConsoleApp 10.genruntimeconfig.cache
+C:\Users\Moe-gawish\source\repos\ConsoleApp 10\obj\Debug\net7.0\ref\ConsoleApp 10.dll
